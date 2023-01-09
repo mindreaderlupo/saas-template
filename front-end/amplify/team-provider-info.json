@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-borrowit-dev-113746-authRole",
+      "UnauthRoleArn": "arn:aws:iam::190985448759:role/amplify-borrowit-dev-113746-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::190985448759:role/amplify-borrowit-dev-113746-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-borrowit-dev-113746-deployment",
+      "UnauthRoleName": "amplify-borrowit-dev-113746-unauthRole",
+      "StackName": "amplify-borrowit-dev-113746",
+      "StackId": "arn:aws:cloudformation:eu-west-1:190985448759:stack/amplify-borrowit-dev-113746/a982f230-9009-11ed-a394-02250aaf17e9",
+      "AmplifyAppId": "dvcq2cwi7gg8t"
+    }
+  }
+}
